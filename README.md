@@ -1,1 +1,3 @@
 # BootCampGl2020_HernanConte
+
+Hola! Este es un documento de texto. Aunque no hay mucha texto por aca (yet)...
