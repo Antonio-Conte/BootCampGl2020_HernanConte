@@ -1,3 +1,6 @@
 # BootCampGl2020_HernanConte
 
-Hola! Este es un documento de texto. Aunque no hay mucha texto por aca (yet)...
+This is a wish list:
+- I want to take my mother to Tucuman.
+- I want to buy myself a computer.
+- I want pizza
